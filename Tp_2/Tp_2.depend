@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1621650854 source:c:\users\usuario\desktop\laboratorio\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"Menu.h"
+
+1621651260 c:\users\usuario\desktop\laboratorio\tp_2\menu.h
+
